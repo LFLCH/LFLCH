@@ -7,6 +7,6 @@ Also, I recommend you to take a look at [CorrectExam](https://github.com/correct
 
 🚧 I am also currently working on a long time [school project](https://github.com/FenrirWolf4566/brain-tumor) that aims thanks to AI to help doctors finding brain tumors called "gliome". The work is in progress, and it is going well.  I am personally in charge of the web part, which allows to visualize the MRI images, and to exchange with the backend in order to make the analyze.
 
-🕹️ Very recently (3rd-5th March), I participated to a game jam organized by students from the ESIR school, and sponsored by Orange. We used the game engine Unity. It was a first for all my teammates ! We had a good time and learnt a lot. You can find the executable on my [school-projects repository](https://github.com/LFLCH/school-projects/tree/main/kittme). I will write a little description about it soon !
+🕹️ Very recently (3rd-5th March), I participated to a game jam organized by students from the ESIR school, and sponsored by Orange. We used the game engine Unity. It was a first for all my teammates ! We had a good time and learnt a lot. You can find the executable on my [school-projects repository](https://github.com/LFLCH/school-projects/tree/main/kittme), or directly see the [repo](https://github.com/esir-secretVideoGameDevs/gameJam2023) we used. I will write a little description about it soon !
 
 📨 Don't hesitate to reach me on my [institutional](mailto:leo.filoche@etudiant.univ-rennes1.fr) or my [personal](mailto:leofiloche.wk@gmail.com) e-mail adress if you have ANY question or remark
