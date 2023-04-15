@@ -41,7 +41,6 @@ I like to spend time with them when I want to complete a project. Do you recogni
  <a href="https://en.wikipedia.org/wiki/SQLite"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite3" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" /> </a>
 </p>
 
@@ -56,6 +55,7 @@ I like to spend time with them when I want to complete a project. Do you recogni
 <a href="https://en.wikipedia.org/wiki/Spyder_(software)"> <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" alt="Spyder" /></a>
 <a href="https://en.wikipedia.org/wiki/Project_Jupyter"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /></a>
 <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" /></a>
+<a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"  /> </a>
 <a href="https://en.wikipedia.org/wiki/Arduino"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
 <a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry PI" /></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux" />  </a>
