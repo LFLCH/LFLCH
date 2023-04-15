@@ -18,7 +18,7 @@ Public repositories I think of when I am asked to show what I can do.
 | [CorrectExam](https://github.com/correctexam/)| An open source copy correction web app |
 | [Kittme](https://github.com/esir-secretVideoGameDevs/gameJam2023) | A video game made in 40hours for the ESIR Game Jam 2023|
 
-# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Languages & Environnements
+# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Languages & Environments
 I like to spend time with them when I want to complete a project. Do you recognize them all ?
 <p align="center"> 
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" /></a>
