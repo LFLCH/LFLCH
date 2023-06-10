@@ -26,6 +26,7 @@ I like to spend time with them when I want to complete a project. Do you recogni
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" /> </a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/MATLAB" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="40" />  </a>
 <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="40" />  </a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" /></a>
@@ -36,12 +37,13 @@ I like to spend time with them when I want to complete a project. Do you recogni
 <a href="https://en.wikipedia.org/wiki/PHP"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" /></a>
 <a href="https://astro.build/"><img src="https://astro.build/assets/press/astro-icon-dark.svg" alt="AstroJS" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs"  height="40"/></a>
 <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="40" /></a>
- <a href="https://en.wikipedia.org/wiki/MySQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" /></a>
- <a href="https://en.wikipedia.org/wiki/SQLite"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite3" height="40" /> </a>
+<a href="https://en.wikipedia.org/wiki/MySQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/SQLite"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite3" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" /> </a>
+<a href="https://en.wikipedia.org/wiki/Qt_(software)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" height="40"/></a>
 </p>
 
 <p align="center">
