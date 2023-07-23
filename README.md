@@ -9,24 +9,17 @@
 </p>
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png 2x" alt="Rocket on Microsoft Teams 1.0 🚀" height="40"> Projects
-Public repositories I think of when I am asked to show what I can do.
-| Name | Description |
-| ------ | ----------- |
-| [Personal Page](https://github.com/LFLCH/lefiWEB) | A GitHub Pages hosted web page about my personal informations. |
-| [School projects](https://github.com/LFLCH/school-projects)  | List of my most noticeable school projects |
-| [Visual Gliome](https://github.com/FenrirWolf4566/brain-tumor) | Web App for detection and visualization of brain tumors 
-| [CorrectExam](https://github.com/correctexam/)| An open source copy correction web app |
-| [Kittme](https://github.com/esir-secretVideoGameDevs/gameJam2023) | A video game made in 40hours for the ESIR Game Jam 2023|
+You can find my projects in the [repository](https://github.com/LFLCH?tab=repositories) tab, or by looking at the [participations list](https://github.com/stars/LFLCH/lists/participations).
 
-# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Languages & Environments
+# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Technical Stack
 I like to spend time with them when I want to complete a project. Do you recognize them all ?
 <p align="center"> 
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" /> </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/MATLAB" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="40" />  </a>
 <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="40" />  </a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" /></a>
@@ -50,6 +43,7 @@ I like to spend time with them when I want to complete a project. Do you recogni
 <a href="https://en.wikipedia.org/wiki/Eclipse_(software)"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" alt="Eclipse" /></a>
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" ><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" /> </a>
 <a href="https://en.wikipedia.org/wiki/Android_Studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /></a>
+<a href="https://en.wikipedia.org/wiki/Visual_Studio"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" /></a>
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity" /></a>
 <a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" /></a>
 <a href="https://en.wikipedia.org/wiki/PhpMyAdmin"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white" alt="PhpMyAdmin" /></a>
