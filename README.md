@@ -20,6 +20,15 @@ The following table describes the projects I took part in during my traineeships
 | 2022 | 2 months | [CorrectExam](https://github.com/correctexam/)| An copy correction web app | ```Angular``` ```Python``` ```OpenCV```|
 
 # <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Technical Stack
+**Reference languages**  
+<p align="left">
+  <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
+  <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50"/> </a>
+  <a href="https://en.cppreference.com/w/"> <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50"/>            </a>
+</p>
+        
+
 See more about it on my [personal page](https://lflch.github.io).
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png 2x" alt="Incoming Envelope on Microsoft Teams 1.0 📨 " height="40"> Contact
