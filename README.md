@@ -1,7 +1,7 @@
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"  alt="Waving Hand on Microsoft Teams 1.0 👋"  height="50"> Salut, moi c'est Léo !
-<p align="left">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png 2x" alt="Technologist on Microsoft Teams 1.0 🧑‍💻" height="30"> <b>I am Léo</b>, a french computer science student. 
-</p>
+
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png 2x" alt="Technologist on Microsoft Teams 1.0 🧑‍💻" height="30"> <b>I am Léo</b>, a french computer science student.  I am currently finishing a Master 1 in software engineering at [ESIR](https://esir.univ-rennes.fr/).
+
 <p align="center">
   <a href="https://www.univ-rennes.fr/en"><img src="https://upload.wikimedia.org/wikipedia/fr/c/c6/Universit%C3%A9_de_Rennes_Logotype_2023.svg" alt="Université de Rennes"  width="100"/></a>
   <a href="https://esir.univ-rennes.fr/en/presenting-esir-0"><img src="https://upload.wikimedia.org/wikipedia/fr/0/0e/LogosESIR_noir.svg" width="90"/></a> 
