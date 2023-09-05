@@ -9,11 +9,11 @@
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png 2x" alt="Rocket on Microsoft Teams 1.0 🚀" height="40"> Projects
 
-My personal projects can be found in the [repository](https://github.com/LFLCH?tab=repositories) tab, or by looking at the [participations list](https://github.com/stars/LFLCH/lists/participations).
+My personal projects are available in the [repository](https://github.com/LFLCH?tab=repositories) tab, or by looking at the [participations list](https://github.com/stars/LFLCH/lists/participations).
 
-A presentation of my school projects is available [here](https://github.com/LFLCH/school-projects/blob/main/README.md).
+You can also cast a glance at the presentation of my [school projects](https://github.com/LFLCH/school-projects/blob/main/README.md).
 
-My internships projects are listed in the following table.
+The following table describes the projects I took part in during my traineeships.
 |  Year  | Duration | Name | Description |  Tags |
 | ------ | ------ | ------ | ----------- |----------- |
 | 2023 | 3 months | [medInria](https://github.com/medInria/medInria-public)| A MRI visualisation software | ```C++``` ```Qt5``` |
