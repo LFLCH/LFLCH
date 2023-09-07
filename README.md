@@ -9,15 +9,17 @@
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png 2x" alt="Rocket on Microsoft Teams 1.0 🚀" height="40"> Projects
 
-My personal projects are available in the [repository](https://github.com/LFLCH?tab=repositories) tab, or by looking at the [participations list](https://github.com/stars/LFLCH/lists/participations).
+My personal projects are easily available in the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab.
 
 You can also cast a glance at the presentation of my [school projects](https://github.com/LFLCH/school-projects/blob/main/README.md).
 
-The following table describes the projects I took part in during my traineeships.
+Those are the projects I took part in during my traineeships.
 |  Year  | Duration | Name | Description |  Tags |
 | ------ | ------ | ------ | ----------- |----------- |
 | 2023 | 3 months | [medInria](https://github.com/medInria/medInria-public)| A MRI visualisation software | ```C++``` ```Qt5``` |
 | 2022 | 2 months | [CorrectExam](https://github.com/correctexam/)| An copy correction web app | ```Angular``` ```Python``` ```OpenCV```|
+
+For more projects, I invite you to look at my [stars lists](https://github.com/LFLCH?tab=stars).
 
 # <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Technical Stack
 **Reference languages**  
