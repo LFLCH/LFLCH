@@ -17,7 +17,7 @@ Those are the projects I took part in during my traineeships.
 |  Year  | Duration | Name | Description |  Tags |
 | ------ | ------ | ------ | ----------- |----------- |
 | 2023 | 3 months | [medInria](https://github.com/medInria/medInria-public)| A MRI visualisation software | ```C++``` ```Qt5``` |
-| 2022 | 2 months | [CorrectExam](https://github.com/correctexam/)| An copy correction web app | ```Angular``` ```Python``` ```OpenCV```|
+| 2022 | 2 months | [CorrectExam](https://github.com/correctexam/)| A copy correction web app | ```Angular``` ```Python``` ```OpenCV```|
 
 For more projects, I invite you to look at my [stars lists](https://github.com/LFLCH?tab=stars).
 
