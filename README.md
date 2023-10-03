@@ -9,9 +9,7 @@
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png 2x" alt="Rocket on Microsoft Teams 1.0 🚀" height="40"> Projects
 
-My personal projects are easily available in the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab.
-
-You can also cast a glance at the presentation of my [school projects](https://github.com/LFLCH/school-projects/blob/main/README.md).
+Besides the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab, you can also cast a glance at the presentation of my [school projects](https://github.com/LFLCH/school-projects/blob/main/README.md).
 
 Those are the projects I took part in during my traineeships.
 |  Year  | Duration | Name | Description |  Tags |
