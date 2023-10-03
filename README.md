@@ -22,7 +22,7 @@ Those are the projects I took part in during my traineeships.
 For more projects, I invite you to look at my [stars lists](https://github.com/LFLCH?tab=stars).
 
 # <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Technical Stack
-**Reference languages**  
+**Reference languages** <br> I like to use them Vanilla, as well as with appropriate frameworks.
 <p align="left">
   <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
   <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
