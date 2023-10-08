@@ -7,29 +7,15 @@
   <a href="https://esir.univ-rennes.fr/en/presenting-esir-0"><img src="https://upload.wikimedia.org/wikipedia/fr/0/0e/LogosESIR_noir.svg" width="90"/></a> 
 </p>
 
-# <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png 2x" alt="Rocket on Microsoft Teams 1.0 🚀" height="40"> Projects
 
-Besides the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab, you can also cast a glance at the presentation of my [school projects](https://github.com/LFLCH/school-projects/blob/main/README.md).
+# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> [lflch.github.io](https://lflch.github.io/)
 
-Those are the projects I took part in during my traineeships.
-|  Year  | Duration | Name | Description |  Tags |
-| ------ | ------ | ------ | ----------- |----------- |
-| 2023 | 3 months | [medInria](https://github.com/medInria/medInria-public)| A MRI visualisation software | ```C++``` ```Qt5``` |
-| 2022 | 2 months | [CorrectExam](https://github.com/correctexam/)| A copy correction web app | ```Angular``` ```Python``` ```OpenCV```|
+Get to know me better by visiting my personal page. <br>
+<br>
+You can also look at my [school-projects](https://github.com/LFLCH/school-projects) repository. And simply the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab for all of my personal projects. <br>
+<br>
+I also like to give [stars](https://github.com/LFLCH?tab=stars) to the repositories I worked on, or that simply interest me. 
 
-For more projects, I invite you to look at my [stars lists](https://github.com/LFLCH?tab=stars).
-
-# <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> Technical Stack
-**Reference languages** <br> I like to use them Vanilla, as well as with appropriate frameworks.
-<p align="left">
-  <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
-  <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50"/> </a>
-  <a href="https://en.cppreference.com/w/"> <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50"/>            </a>
-</p>
-        
-
-See more about it on my [personal page](https://lflch.github.io).
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png 2x" alt="Incoming Envelope on Microsoft Teams 1.0 📨 " height="40"> Contact
 <p align="left">
