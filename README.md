@@ -10,15 +10,10 @@
 
 # <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Seedling/3D/seedling_3d.png" alt="🌱 Magic wand" height="40"> [lflch.github.io](https://lflch.github.io/)
 
-Get to know me better by visiting my personal page. <br>
-<br>
-You can also look at my [school-projects](https://github.com/LFLCH/school-projects) repository. And simply the [repository](https://github.com/LFLCH?tab=repositories&q=&type=source&language=&sort=) tab for all of my personal projects. <br>
-<br>
-I also like to give [stars](https://github.com/LFLCH?tab=stars) to the repositories I worked on, or that simply interest me. 
+Get to know me better by visiting my personal page : backgroud, skills, projects & hobbies !
 
-# <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gem%20stone/3D/gem_stone_3d.png" alt="💎 Gem stone" height="40"> Technical stack
 
-**Reference languages**  
+# <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gem%20stone/3D/gem_stone_3d.png" alt="💎 Gem stone" height="40"> Reference languages
 <p align="left">
   <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
   <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
