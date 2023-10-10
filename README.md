@@ -16,6 +16,16 @@ You can also look at my [school-projects](https://github.com/LFLCH/school-projec
 <br>
 I also like to give [stars](https://github.com/LFLCH?tab=stars) to the repositories I worked on, or that simply interest me. 
 
+# <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gem%20stone/3D/gem_stone_3d.png" alt="💎 Gem stone" height="40"> Technical stack
+
+**Reference languages**  
+<p align="left">
+  <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
+  <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50"/> </a>
+  <a href="https://en.cppreference.com/w/"> <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50"/>            </a>
+</p>
+
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/incoming-envelope_1f4e8.png 2x" alt="Incoming Envelope on Microsoft Teams 1.0 📨 " height="40"> Contact
 <p align="left">
