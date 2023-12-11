@@ -1,4 +1,4 @@
-# <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"  alt="Waving Hand on Microsoft Teams 1.0 👋"  height="50"> <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&duration=4000&pause=5&color=000000&vCenter=true&repeat=false&random=false&width=435&height=35&lines=Salut%2C+moi+c'est+L%C3%A9o+!" alt="Salut, moi c'est Léo !" />
+# <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"  alt="Waving Hand on Microsoft Teams 1.0 👋"  height="50"> <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&duration=4000&pause=5&color=5A6090&vCenter=true&repeat=false&random=false&width=435&height=35&lines=Salut%2C+moi+c'est+L%C3%A9o+!" alt="Salut, moi c'est Léo !" />
 
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png 2x" alt="Technologist on Microsoft Teams 1.0 🧑‍💻" height="30"> <b>I am Léo</b>, a french computer science student.  I am currently following **Master 2** classes in software engineering at [ESIR](https://esir.univ-rennes.fr/). 
 
@@ -17,7 +17,7 @@ Get to know me better by visiting my personal page : background, skills, project
 <p align="left">
   <a href="https://www.python.org/" > <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  height="50" /> </a>  
   <a href="https://www.java.com/"> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />        </a>  
-  <a href="https://www.typescriptlang.org/"> <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/> </a>
+  <a href="https://www.typescriptlang.org/"> <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50"/> </a>
   <a href="https://en.cppreference.com/w/"> <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50"/>            </a>
 </p>
 
