@@ -11,7 +11,7 @@ I like pasta and web technologies.
 
 I work with  <a href="https://www.typescriptlang.org/"> <img src="assets/ts-logo.png"  style="height:20px;" /> TypeScript </a>, <a href="https://www.python.org/"> <img src="assets/python-logo.png" style="height:20px;" /> Python </a>  and <a href="https://www.docker.com/"> <img src="assets/docker-logo.png"  style="height:20px;" /> Docker </a> on a regular basis.
 
-Any questions ? send me an [email](leofiloche.wk@gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/leofiloche/).
+Any questions ? send me an [email](mailto:leofiloche.wk[at]gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/leofiloche/).
 </p>
 
 
