@@ -3,9 +3,9 @@
 They are part of my dev routine.
 
 - (any) https://github.com/microsoft/vscode
-- (bash) https://github.com/junegunn/fzf
-- (bash) https://github.com/sharkdp/bat
-- (bash) https://github.com/starship/starship
-- (ts) https://github.com/pnpm/pnpm
-- (py) https://github.com/astral-sh/uv
-- (py) https://github.com/astral-sh/ruff
+- (<img src="assets/bash-logo.png" style="height:20px;" />) https://github.com/junegunn/fzf
+- (<img src="assets/bash-logo.png" style="height:20px;" />) https://github.com/sharkdp/bat
+- (<img src="assets/bash-logo.png" style="height:20px;" />) https://github.com/starship/starship
+- (<img src="assets/ts-logo.png" style="height:20px;" />)  https://github.com/pnpm/pnpm
+- (<img src="assets/python-logo.png" style="height:20px;" />) https://github.com/astral-sh/uv
+- (<img src="assets/python-logo.png"  style="height:20px;" />) https://github.com/astral-sh/ruff
